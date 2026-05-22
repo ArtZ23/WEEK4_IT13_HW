@@ -5,7 +5,7 @@
 		static void Main(string[] args)
 		{
 			Console.ForegroundColor = ConsoleColor.DarkBlue;
-			Console.WriteLine("Hello, World!");
+			Console.WriteLine("Hello, test");
 			Console.WriteLine(Console.ReadLine());
 
 			Console.ResetColor();
